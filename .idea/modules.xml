@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-module.iml" filepath="$PROJECT_DIR$/common-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-pay/common-pay.iml" filepath="$PROJECT_DIR$/common-pay/common-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-pay/common-pay-service/common-pay-service.iml" filepath="$PROJECT_DIR$/common-pay/common-pay-service/common-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-pay/common-pay-utils/common-pay-utils.iml" filepath="$PROJECT_DIR$/common-pay/common-pay-utils/common-pay-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-pay/common-pay-web/common-pay-web.iml" filepath="$PROJECT_DIR$/common-pay/common-pay-web/common-pay-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-search/common-search.iml" filepath="$PROJECT_DIR$/common-search/common-search.iml" />
+    </modules>
+  </component>
+</project>

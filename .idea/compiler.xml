@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-pay-service" />
+        <module name="common-pay-utils" />
+        <module name="common-pay-web" />
+        <module name="common-search" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="common-module" target="1.5" />
+      <module name="common-pay" target="1.5" />
+      <module name="common-pay-service" target="1.5" />
+      <module name="common-pay-utils" target="1.5" />
+      <module name="common-pay-web" target="1.8" />
+      <module name="common-search" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
